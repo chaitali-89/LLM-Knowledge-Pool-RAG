@@ -5,7 +5,7 @@ from keys import *
 
 # API
 local_client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
-openai_client = OpenAI(api_key=OPENAI_API_KEY)
+#openai_client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Models
 embedding_model = "nomic-ai/nomic-embed-text-v1.5-GGUF"
@@ -47,14 +47,14 @@ westlake = [
         }
 ]
 
-# Notice how this model is not running locally. It uses an OpenAI key.
-gpt4_turbo = [
-        {
-            "model": "gpt-4-turbo-preview",
-            "api_key": OPENAI_API_KEY,
-            "cache_seed": random.randint(0, 100000),
-        }
-]
+# # Notice how this model is not running locally. It uses an OpenAI key.
+# gpt4_turbo = [
+#         {
+#             "model": "gpt-4-turbo-preview",
+#             "api_key": OPENAI_API_KEY,
+#             "cache_seed": random.randint(0, 100000),
+#         }
+# ]
 
 command_r = [
         {
@@ -87,15 +87,15 @@ llama3 = [
 #         }
 # ]
 
-# Helping functions
-def api_mode (mode):
-    if mode == "local":
-        client = local_client
-        completion_model = mistral_7b #whatever model you want to use
-        return client, completion_model
-    elif mode == "openai":
-        client = openai_client
-        completion_model = gpt4_turbo
-        return client, completion_model
-    else:
-        raise ValueError("Please specify if you want to run local or openai models")
+# # Helping functions
+# def api_mode (mode):
+#     if mode == "local":
+#         client = local_client
+#         completion_model = mistral_7b #whatever model you want to use
+#         return client, completion_model
+#     elif mode == "openai":
+#         client = openai_client
+#         completion_model = gpt4_turbo
+#         return client, completion_model
+#     else:
+#         raise ValueError("Please specify if you want to run local or openai models")
