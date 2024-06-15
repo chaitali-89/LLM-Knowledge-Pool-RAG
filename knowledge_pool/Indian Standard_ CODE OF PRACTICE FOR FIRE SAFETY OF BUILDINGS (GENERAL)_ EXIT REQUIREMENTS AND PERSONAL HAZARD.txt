@@ -542,43 +542,26 @@ b)
 Residential hotel buildings - minimum staircase width =1·5 m
 
 c)
-Assembly buildings like auditorium, theatres and cinemas
-1·5 m
-
+Assembly buildings like auditorium, theatres and cinemas- minimum staircase width =1·5 m
 
 d)
 Educational buildings:
- 
+
+i) Educational buildings: Up to 24 m in height minimum staircase width =1·5 m
+
+ii) Educational buildings: More than 24 m in height minimum staircase width = 2.0 m
 
 
- 
-i) Up to 24 m in height
-1·5 m
 
-
- 
-ii) More than 24 m in height
-2·0 m
-
-
-e)
+e) 
 Institutional buildings like hospitals:
- 
+i) Institutional buildings like hospitals: Up to 10 beds minimum staircase width = 1·5 m
 
-
- 
-i) Up to 10 beds
-1·5 m
-
-
- 
-ii) More than 10 beds
-2·0 m
-
+ii) Institutional buildings like hospitals: More than 10 beds minimum staircase width = 2.0 m
 
 f)
-All other buildings
-1·5 m
+All other buildings minimum staircase width = 1·5 m
+
 2.10.7
 The minimum width of tread without nosing should be 25 cm for internal staircase of residential buildings. This should be 30 cm for assembly, educational, institutional, business and other buildings. The treads should be constructed and maintained in a manner to prevent slipping.
 2.10.8

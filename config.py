@@ -9,37 +9,50 @@ openai_client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Models
 embedding_model = "nomic-ai/nomic-embed-text-v1.5-GGUF"
+#embedding_model = "gaianet/Nomic-embed-text-v1.5-Embedding-GGUF"
+#embedding_model = "second-state/Nomic-embed-text-v1.5-Embedding-GGUF"
 
-mistral_8x7b = [
+mermaid = [
         {
-            "model": "cjpais/llava-1.6-mistral-7b-gguf/llava-1.6-mistral-7b.Q6_K.gguf",
+            "model": "afrideva/Mermaid-Llama-6.7B-RAG-Code-Instruct-GGUF",
             'api_key': 'any string here is fine',
             'api_type': 'openai',
             'base_url': "http://localhost:1234/v1",
         }
 ]
+
+phi3 = [
+        {
+            "model": "afrideva/Phi-3-Context-Obedient-RAG-GGUF",
+            'api_key': 'any string here is fine',
+            'api_type': 'openai',
+            'base_url': "http://localhost:1234/v1",
+            "cache_seed": random.randint(0, 100000),
+        }
+]
+
 
 mistral_7b = [
         {
-            "model": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
+            "model": "RichardErkhov/h2oai_-_h2ogpt-gm-7b-mistral-chat-sft-dpo-rag-v1-gguf",
             'api_key': 'any string here is fine',
             'api_type': 'openai',
             'base_url': "http://localhost:1234/v1",
         }
 ]
 
-nous_capybara_3b = [
+bartowski = [
         {
-            "model": "RichardErkhov/NousResearch_-_Nous-Capybara-3B-V1.9-gguf",
+            "model": "bartowski/Phi-3-Context-Obedient-RAG-GGUF",
             'api_key': 'any string here is fine',
             'api_type': 'openai',
             'base_url': "http://localhost:1234/v1",
         }
 ]
 
-westlake = [
+mistral_7b1 = [
         {
-            "model": "TheBloke/WestLake-7B-v2-GGUF",
+            "model": "RichardErkhov/h2oai_-_h2ogpt-gm-7b-mistral-chat-sft-dpo-rag-v1-gguf",
             'api_key': 'any string here is fine',
             'api_type': 'openai',
             'base_url': "http://localhost:1234/v1",
@@ -56,9 +69,9 @@ gpt4_turbo = [
         }
 ]
 
-command_r = [
+phi31 = [
         {
-            "model": "andrewcanis/c4ai-command-r-v01-GGUF",
+            "model": "bartowski/Phi-3-Context-Obedient-RAG-GGUF",
             'api_key': 'any string here is fine',
             'api_type': 'openai',
             'base_url': "http://localhost:1234/v1",
@@ -66,15 +79,15 @@ command_r = [
         }
 ]
 
-llama3 = [
-        {
-            "model": "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
-            'api_key': 'any string here is fine',
-            'api_type': 'openai',
-            'base_url': "http://localhost:1234/v1",
-            "cache_seed": random.randint(0, 100000),
-        }
-]
+# llama3 = [
+#         {
+#             "model": "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+#             'api_key': 'any string here is fine',
+#             'api_type': 'openai',
+#             'base_url': "http://localhost:1234/v1",
+#             "cache_seed": random.randint(0, 100000),
+#         }
+# ]
 
 #If you download any new models, make sure to add its configuration here. Simply change the "model" name to the correct one.
 Mistral_7B_32k = [
@@ -91,7 +104,7 @@ Mistral_7B_32k = [
 def api_mode(mode):
     if mode == "local":
         client = local_client
-        completion_model = Mistral_7B_32k  # Whatever model you want to use locally
+        completion_model = phi3  # Whatever model you want to use locally
         return client, completion_model
     elif mode == "openai":
         client = openai_client

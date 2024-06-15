@@ -406,39 +406,30 @@ operation, but wherein the stops registered by the momentary actuation of the la
 (i) Double Button (Continuous Pressure) Operation: Operation by means of buttons or switches in the car and at the landings any of which may be used to control the movement of the car as long as the button or switch is manually pressed in the actuating position.
 
 # Operating Device
-
 A car switch, push button or other device employed to actuate the control.
 
 # Overhead Beams (Lift)
-
 The members, usually of steel or reinforced concrete, which immediately support the lift equipment at the top of the lift well.
 
 # Overhead Pulley
-
 An idler pulley used to change the direction of rope.
 
 # Passenger Lift
-
 A lift designed for the transport of passengers.
 
 # Position and/or Direction Indicator
-
 A device which indicates on the lift landing or in the lift car or both, the position of the car in the lift well or the direction or both in which the lift car is travelling.
 
 # Power Operated Door
-
 A door operated automatically by a device initiated by a momentary pressure on the push button or by operation of the control system.
 
 # Rated Load
-
 The maximum load which the lift car, escalator or moving walk is designed and installed to carry safely at its rated speed.
 
 # Rated Speed (Lift)
-
 The speed attained by the lift in the up direction with rated load in the lift car. Also known as CAR SPEED.
 
 # Rated Speed (Escalator)
-
 The speed at which the escalator is designed to operate in the up direction. It is the rate of travel of the steps, measured along the angle of inclination with rated load on the steps or carriage.
 
 # Bangladesh National Building Code 2011
@@ -544,7 +535,7 @@ Bangladesh National Building Code 2011 6-173
 
 # 4.2 ESSENTIAL REQUIREMENTS FOR LIFTS
 
-# 4.2.1 General
+4.2.1 General
 
 4.2.1.1 Lifts shall be provided in buildings more than six storeys or 20 m in height. Installation of lifts shall be carried out in conformity with the "Lift Act" and rules there under, wherever they are in force.
 
@@ -649,8 +640,6 @@ For detailed specifications of lifts, escalators and moving walks reference shal
 # 4.2.2.2 Fire Switch
 
 When required fire switch shall be provided, the function of which is to enable the fire authority to take over complete control of one or more lifts in an installation by operating with a fireman's key.
----
-# Lifts, Escalators and Moving Walks Chapter 4
 
 4.2.2.3 Fireman's Lift
 

@@ -319,8 +319,6 @@ The limited distance above or below a lift landing within which the leveling dev
 
 # Lift
 
-Bangladesh National Building Code 2011 6-169
----
 # Part 8 Building Services
 
 A machine designed to transport persons or materials between two or more levels in a vertical or substantially vertical direction by means of a guided car or platform. The word "elevator" is also synonymously used for "lift".
@@ -970,8 +968,7 @@ The overhead height shall not be less than as shown in Table 8.4.2
 
 4.2.4.25 Lift well dimensions
 
-Bangladesh National Building Code 2011 6-183
----
+
 # Part 8 Building Services
 
 Recommended dimensions of lift well and its entrances are provided in Table 8.4.2(A), Table 8.4.2(B), Table 8.4.2(C) and Table 8.4.2(D). These dimensions are primarily for architects and building planners for planning of lift well.
@@ -1016,8 +1013,7 @@ In case of passenger lifts, solid sliding doors shall preferably be provided for
 
 4.2.7.5 In case of a group of two or more lift wells, arrangements shall be provided to allow inspection of a lift pit through the adjoining one.
 
-Bangladesh National Building Code 2011 - 6-185
----
+
 # Part 8 Building Services
 
 |Speed (m/s)|Up to|>0.70|>1.00|>1.50|>1.75|>2.00|>2.50|>3.00|
@@ -1110,8 +1106,7 @@ Notes :
 
 4.2.8.1 Buffers of spring or oil shall be used for safety. Buffers shall be fitted under the lift car and counterweight directly or on the pit floor with suitable concrete or steel foundation. Oil resistant rubber buffers may be used with lifts
 
-Bangladesh National Building Code 2011 6‐187
----
+
 # Part 8 Building Services
 
 having a rated speed not exceeding 0.25 m/s. Lifts having rated speed in excess of 0.25 m/s and up to and including 1.0 m/s, spring or oil buffers shall be used. For lifts having rated speed more than 1.0 m/s, only oil buffers shall be used. Wooden blocks suitably treated may also be used for service lifts for speeds up to 0.5 m/s. Buffers shall be located symmetrically with reference to the vertical centreline of the car/counterweight with a tolerance of 50 mm.
@@ -1198,10 +1193,7 @@ The space at secondary level in which the overhead pulleys, overspeed governors 
 |---|---|
 |(b)|Applied plates permanently attached shall be acceptable. In case of a completely enclosed lift well a notice with the word 'Lift' shall be placed outside of each landing door. Electric light shall be provided such that this sign remains visible even if the surroundings are dark.|
 
-Bangladesh National Building Code 2011
 
-6-189
----
 # Part 8 Building Services
 
 (c) A permanent warning sign shall be installed immediately above each hall push button station on each floor reading: IN FIRE EMERGENCY, DO NOT USE LIFT. USE EXIT STAIRS. This sign shall be in letters not less than 12 mm high. The warning sign may consist of incised, inlaid or embossed letters on a metal, wood, plastic or similar plate securely and permanently attached to the wall, or letters incised or inlaid directly into the surface of the material forming the wall.
