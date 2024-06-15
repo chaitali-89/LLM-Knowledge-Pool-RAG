@@ -1,0 +1,296 @@
+# BUILDING PLANNING
+
+# SECTION R311
+
+# R311.1 Means of egress. Dwellings shall be provided with a means of egress in accordance with this section. The means of egress shall provide a continuous and unobstructed path of vertical and horizontal egress travel from all portions of the dwelling to the required egress door without requiring travel through a garage. The required egress door shall open directly into a public way or to a yard or court that opens to a public way.
+
+# R311.2 Egress door. Not less than one egress door shall be provided for each dwelling unit. The egress door shall be side-hinged, and shall provide a clear width of not less than 32 inches (813 mm) where measured between the face of the door and the stop, with the door open 90 degrees (1.57 rad). The clear height of the door opening shall be not less than 78 inches (1981 mm) in height measured from the top of the threshold to the bottom of the stop. Other doors shall not be required to comply with these minimum dimensions. Egress doors shall be readily openable from inside the dwelling without the use of a key or special knowledge or effort.
+
+# R311.3 Floors and landings at exterior doors. There shall be a landing or floor on each side of each exterior door. The width of each landing shall be not less than the door served. Landings shall have a dimension of not less than 36 inches (914 mm) measured in the direction of travel. The slope at exterior landings shall not exceed 1/4 unit vertical in 12 units horizontal (2 percent).
+
+Exception: Exterior balconies less than 60 square feet accessed from a door are permitted to have a landing that is less than 36 inches (914 mm) measured in the direction of travel.
+
+# R311.3.1 Floor elevations at the required egress doors. Landings or finished floors at the required egress door shall be not more than 1 1/2 inches (38 mm) lower than the top of the threshold.
+
+Exception: The landing or floor on the exterior side shall be not more than 7 3/4 inches (196 mm) below the top of the threshold provided that the door does not swing over the landing or floor.
+
+Where exterior landings or floors serving the required egress door are not at grade, they shall be provided with access to grade by means of a ramp in accordance with Section R311.8 or a stairway in accordance with Section R311.7.
+
+# R311.3.2 Floor elevations at other exterior doors. Doors provided with landings or floors not more than 7 3/4 inches (196 mm) below the top of the threshold.
+
+Exception: A top landing is not required where a stairway of not more than two risers is located on the exterior side of the door, provided that the door does not swing over the stairway.
+
+# R311.3.3 Storm and screen doors. Storm and screen doors shall be permitted to swing over exterior stairs and landings.
+
+# R311.4 Vertical egress. Egress from habitable levels including habitable attics and basements that are not provided with an egress door in accordance with Section R311.2 shall be by a ramp in accordance with Section R311.8 or a stairway in accordance with Section R311.7.
+
+# R311.5 Landing, deck, balcony and stair construction and attachment. Exterior landings, decks, balconies, stairs and similar facilities shall be positively anchored to the primary structure to resist both vertical and lateral forces or shall be designed to be self-supporting. Attachment shall not be accomplished by use of toenails or nails subject to withdrawal.
+
+# R311.6 Hallways. The width of a hallway shall be not less than 3 feet (914 mm).
+
+# R311.7 Stairways. Where required by this code or provided, stairways shall comply with this section.
+
+Exceptions:
+1. Stairways not within or serving a building, porch or deck.
+2. Stairways leading to nonhabitable attics.
+3. Stairways leading to crawl spaces.
+
+# R311.7.1 Width. Stairways shall be not less than 36 inches (914 mm) in clear width at all points above the permitted handrail height and below the required headroom height. The clear width of stairways at and below the handrail height, including treads and landings, shall be not less than 31 1/2 inches (787 mm) where a handrail is installed on one side and 27 inches (698 mm) where handrails are installed on both sides.
+
+Exception: The width of spiral stairways shall be in accordance with Section R311.7.10.1.
+
+# R311.7.2 Headroom. The headroom in stairways shall be not less than 6 feet 8 inches (2032 mm) measured vertically from the sloped line adjoining the tread nosing or from the floor surface of the landing or platform on that portion of the stairway.
+
+Exceptions:
+1. Where the nosings of treads at the side of a flight extend under the edge of a floor opening through which the stair passes, the floor opening shall not project horizontally into the required headroom more than 4 3/4 inches (121 mm).
+
+2. The headroom for spiral stairways shall be in accordance with Section R311.7.10.1.
+
+# R311.7.3 Vertical rise. A flight of stairs shall not have a vertical rise greater than 12 feet 7 inches (3835 mm) between floor levels or landings.
+
+# R311.7.4 Walkline. The walkline across winder treads and landings shall be concentric to the turn and parallel to the direction of travel entering and exiting the turn. The walkline shall be located 12 inches (305 mm) from the inside of the turn. The 12-inch (305 mm) dimension shall be measured from the widest point of the clear stair width.
+
+2021 INTERNATIONAL RESIDENTIAL CODE®
+---
+# R311.7.5 Stair treads and risers. Stair treads and risers shall meet the requirements of this section. For the purposes of this section, dimensions and dimensioned surfaces shall be exclusive of carpets, rugs or runners.
+
+# R311.7.5.1 Risers. The riser height shall be not more than 7 3/4 inches (196 mm). The riser height shall be measured vertically between leading edges of the adjacent treads. The greatest riser height within any flight of stairs shall not exceed the smallest by more than 3/8 inch (9.5 mm). Risers shall be vertical or sloped from the underside of the nosing of the tread above at an angle not more than 30 degrees (0.51 rad) from the vertical. At open risers, openings located more than 30 inches (762 mm), as measured vertically, to the floor or grade below shall not permit the passage of a 4-inch-diameter (102 mm) sphere.
+
+Exceptions:
+
+1. The opening between adjacent treads is not limited on spiral stairways.
+2. The riser height of spiral stairways shall be in accordance with Section R311.7.10.1.
+
+# R311.7.5.2 Treads. The tread depth shall be not less than 10 inches (254 mm). The tread depth shall be measured horizontally between the vertical planes of the foremost projection of adjacent treads and at a right angle to the tread’s leading edge. The greatest tread depth within any flight of stairs shall not exceed the smallest by more than 3/8 inch (9.5 mm).
+
+# R311.7.5.2.1 Winder treads. Winder treads shall have a tread depth of not less than 10 inches (254 mm) measured between the vertical planes of the foremost projection of adjacent treads at the intersections with the walkline. Winder treads shall have a tread depth of not less than 6 inches (152 mm) at any point within the clear width of the stair. Within any flight of stairs, the largest winder tread depth at the walkline shall not exceed the smallest winder tread by more than 3/8 inch (9.5 mm).
+
+# R311.7.8 Handrails. Handrails shall be provided on not less than one side of each flight of stairs with four or more risers.
+
+# R311.7.8.1 Height. Handrail height, measured vertically from the sloped plane adjoining the tread nosing, or finish surface of ramp slope, shall be not less than 34 inches (864 mm) and not more than 38 inches (965 mm).
+
+Exceptions:
+
+Shaped winders at the walkline shall be allowed within the same flight of stairs as rectangular treads and shall not be required to be within 3/8 inch (9.5 mm) of the rectangular tread depth.
+
+Exception: The tread depth at spiral stairways shall be in accordance with Section R311.7.10.1.
+
+# R311.7.5.3 Nosings. Nosings at treads, landings and floors of stairways shall have a radius of curvature at the nosing not greater than 1/2 inch (14 mm) or a bevel not greater than 9/16 inch (12.7 mm). A nosing projection not less than 3/4 inch (19 mm) and not more than 1 inch (25.4 mm) shall be provided on stair treads.
+
+Where handrail fittings or bendings are used to provide continuous transition between flights, transitions at winder treads, the transition from handrail to guard, or used at the start of a flight, the handrail height at the fittings or bendings shall be permitted to exceed 38 inches (965 mm).
+---
+# BUILDING PLANNING
+
+# R311.7.8.2 Handrail projection. Handrails shall not project more than 41/2 inches (114 mm) on either side of the stairway.
+
+Exception: Where nosings of landings, floors or passing flights project into the stairway reducing the clearance at passing handrails, handrails shall project not more than 61/2 inches (165 mm) into the stairway, provided that the stair width and handrail clearance are not reduced to less than that required.
+
+# R311.7.8.3 Handrail clearance. Handrails 1/2 inches adjacent to a wall shall have a space of not less than 1 (38 mm) between the wall and the handrails.
+
+# R311.7.8.4 Continuity. Handrails shall be continuous for the full length of the flight, from a point directly above the top riser of the flight to a point directly above the lowest riser of the flight. Handrail ends shall be returned toward a wall, guard walking surface continuous to itself, or terminate to a post.
+
+Exceptions:
+
+- Handrail continuity shall be permitted to be interrupted by a newel post at a turn in a flight with winders, at a landing, or over the lowest tread.
+- A volute, turnout or starting easing shall be allowed to terminate over the lowest tread and over the top landing.
+
+# R311.7.8.5 Grip size. Required handrails shall be of one of the following types or provide equivalent graspability.
+
+Type I. Handrails with a circular cross-section shall have an outside diameter of not less than 11/4 inches (32 mm) and not greater than 2 inches (51 mm). If the handrail is not circular, it shall have a perimeter of not less than 4
+
+# R311.7.8.6 Exterior plastic composite handrails. Plastic composite exterior handrails shall comply with the requirements of Section R507.2.2.
+
+# R311.7.9 Illumination. Stairways shall be provided with illumination in accordance with Sections R303.7 and R303.8.
+
+# R311.7.10 Special stairways. Spiral stairways and bulkhead enclosure stairways shall comply with the requirements of Section R311.7 except as specified in Sections R311.7.10.1 and R311.7.10.2.
+
+# R311.7.10.1 Spiral stairways. The clear width at and below the handrails at spiral stairways shall be not less than 26 inches (660 mm) and the walkline radius shall be not greater than 241/2 inches (622 mm). Each tread shall have a depth of not less than 63/4 inches (171 mm) at the walkline. Treads shall be identical, and the rise shall be not more than 91/2 inches (241 mm). Headroom shall be not less than 6 feet 6 inches (1982 mm).
+
+# R311.7.10.2 Bulkhead enclosure stairways. Stairways serving bulkhead enclosures, not part of the required building egress, providing access from the outside grade level to the basement shall be exempt from the requirements of Sections R311.3 and R311.7 where the height from the basement finished floor level to grade adjacent to the stairway is not more than 8 feet (2438 mm) and the grade level opening to the stairway is covered by a bulkhead enclosure with hinged doors or other approved means.
+
+# R311.7.11 Alternating tread devices. Alternating tread devices shall not be used as an element of a means of egress. Alternating tread devices shall be permitted provided that a required means of egress stairway or ramp serves the same space at each adjoining level or where a means of egress is not required. The clear width at and below the handrails shall be not less than 20 inches
+
+inches (102 mm) and not greater than 61/4 (508 mm).
+
+Exception: Alternating tread devices are allowed to be used as an element of a means of egress for lofts, mezzanines and similar areas of 200 gross square feet (18.6 m2) or less where such devices do not provide exclusive access to a kitchen or bathroom.
+
+# R311.7.11.1 Treads of alternating tread devices. Alternating tread devices shall have a tread depth of not less than 5 inches (127 mm), a projected tread depth of not less than 81/2 inches (216 mm), a tread width of not less than 7 inches (178 mm) and a riser height of not more than 91/2 inches (241 mm). The tread depth shall be measured horizontally between the vertical planes of the foremost projections of adjacent treads. The riser height shall be measured vertically between the leading edges of adjacent treads. The riser height and tread depth provided shall result in an angle of ascent from the horizontal of between 50 and 70 degrees (0.87 and 1.22 rad). The initial tread of the device shall begin at the same elevation as the platform, landing or floor surface.
+---
+# BUILDING PLANNING
+
+# R311.7.11.2 Handrails of alternating tread devices. Handrails shall be provided on both sides of alternating tread devices and shall comply with Sections R311.7.8.2 through R311.7.8.6. Handrail height shall be uniform, not less than 30 inches (762 mm) and not more than 34 inches (864 mm).
+
+# R311.7.12 Ship’s ladders. Ship’s ladders shall not be used as an element of a means of egress. Ship’s ladders shall be permitted provided that a required means of egress stairway or ramp serves the same space at each adjoining level or where a means of egress is not required. The clear width at and below the handrails shall be not less than 20 inches (508 mm).
+
+Exception: Ship’s ladders are allowed to be used as an element of a means of egress for lofts, mezzanines and similar areas of 200 gross square feet (18.6 m2) or less that do not provide exclusive access to a kitchen or bathroom.
+
+# R311.7.12.1 Treads of ship’s ladders. Treads shall have a depth of not less than 5 inches (127 mm). The tread shall be projected such that the total of the tread depth plus the nosing projection is not less than 8 1/2 inches (216 mm). The riser height shall be not more than 9 1/2 inches (241 mm).
+
+# R311.7.12.2 Handrails of ship’s ladders. Handrails shall be provided on both sides of ship’s ladders and shall comply with Sections R311.7.8.2 through R311.7.8.6. Handrail height shall be uniform, not less than 30 inches (762 mm) and not more than 34 inches (864 mm).
+
+# Ramps
+
+# R311.8 Ramps. Where required by this code or provided, ramps shall comply with this section.
+
+Exception: Ramps not within or serving a building, porch or deck.
+
+# R311.8.1 Maximum slope. Ramps serving the egress door required by Section R311.2 shall have a slope of not more than 1 unit vertical in 12 units horizontal (8.3-percent slope).
+
+Other ramps shall have a maximum slope of 1 unit vertical in 8 units horizontal (12.5 percent).
+
+Exception: Where it is technically infeasible to comply because of site constraints, ramps shall have a slope of not more than 1 unit vertical in 8 units horizontal (12.5 percent).
+
+# R311.8.2 Landings required. There shall be a floor or landing at the top and bottom of each ramp, where doors open onto ramps, and where ramps change directions. The width of the landing perpendicular to the ramp slope shall be not less than the width of the ramp. The depth of the landing in the direction of the ramp slope shall be not less than 36 inches (914 mm).
+
+# R311.8.3 Handrails required. Handrails shall be provided on not less than one side of ramps exceeding a slope of 1 unit vertical in 12 units horizontal (8.33-percent slope).
+
+# R311.8.3.1 Height. Handrail height, measured above the finished surface of the ramp slope, shall be not less than 34 inches (864 mm) and not more than 38 inches (965 mm).
+
+# R311.8.3.2 Grip size. Handrails on ramps shall comply with Section R311.7.8.5.
+
+# R311.8.3.3 Continuity. Handrails where required on ramps shall be continuous for the full length of the ramp. Handrail ends shall be returned or shall terminate in newel posts or safety terminals. Handrails adjacent to a wall shall have a space of not less than 1 1/2 inches (38 mm) between the wall and the handrails.
+
+# SECTION R312 GUARDS AND WINDOW FALL PROTECTION
+
+# R312.1 Guards. Guards shall be provided in accordance with Sections R312.1.1 through R312.1.4.
+
+# R312.1.1 Where required. Guards shall be provided for those portions of open-sided walking surfaces, including floors, stairs, ramps and landings that are located more than 30 inches (762 mm) measured vertically to the floor or grade below at any point within 36 inches (914 mm) horizontally to the edge of the open side. Insect screening shall not be considered as a guard.
+
+# R312.1.2 Height. Required guards at open-sided walking surfaces, including stairs, porches, balconies or landings, shall be not less than 36 inches (914 mm) in height as measured vertically above the adjacent walking surface or the line connecting the nosings.
+
+Exceptions:
+
+- Guards on the open sides of stairs shall have a height of not less than 34 inches (864 mm) measured vertically from a line connecting the nosings.
+- Where the top of the guard serves as a handrail on the open sides of stairs, the top of the guard shall be not less than 34 inches (864 mm) and not more than 38 inches (965 mm) as measured vertically from a line connecting the nosings.
+
+# R312.1.3 Opening limitations. Required guards shall not have openings from the walking surface to the required guard height that allow passage of a sphere 4 inches (102 mm) in diameter.
+
+Exceptions:
+
+- The triangular openings at the open side of stair, formed by the riser, tread and bottom rail of a guard, shall not allow passage of a sphere 6 inches (153 mm) in diameter.
+- Guards on the open side of stairs shall not have openings that allow passage of a sphere 4 3/8 inches (111 mm) in diameter.
+
+# R312.1.4 Exterior plastic composite guards. Plastic composite exterior guards shall comply with the requirements of Section R317.4.
+---
+BUILDING PLANNING
+
+|R312.2 Window fall protection.|Window fall protection monoxide alarms shall be listed in accordance with UL 217 and UL 2034.|
+|---|---|
+|R312.2.1 Window opening height.|In dwelling units, where the bottom of the clear opening of an operable window opening is located less than 24 inches (610 mm) above the finished floor and greater than 72 inches (1829 mm) above the finished grade or other surface below on the exterior of the building, the operable window shall comply with one of the following: 1. Operable window openings will not allow a 4-inch-diameter (102 mm) sphere to pass through where the openings are in their largest opened position. 2. Operable windows are provided with window opening control devices or fall prevention devices that comply with ASTM F2090.|
+|R312.2.2 Emergency escape and rescue openings.|Where an operable window serves as an emergency escape and rescue opening, a window opening control device or fall prevention device, after operation to release the control device or fall prevention device allowing the window to fully open, shall not reduce the net clear opening area of the window unit to less than the area required by Sections R310.2.1 and R310.2.2.|
+
+SECTION R313 AUTOMATIC FIRE SPRINKLER SYSTEMS
+
+# R313.1 Townhouse automatic fire sprinkler systems. An automatic sprinkler system shall be installed in townhouses.
+
+Exception: An automatic sprinkler system shall not be required where additions or alterations are made to existing townhouses that do not have an automatic sprinkler system installed.
+
+# R313.1.1 Design and installation. Automatic sprinkler systems for townhouses shall be designed and installed in accordance with Section P2904 or NFPA 13D.
+
+# R313.2 One- and two-family dwellings automatic sprinkler systems. An automatic sprinkler system shall be installed in one- and two-family dwellings.
+
+Exception: An automatic sprinkler system shall not be required for additions or alterations to existing buildings that are not already provided with a sprinkler system.
+
+# R313.2.1 Design and installation. Automatic sprinkler systems shall be designed and installed in accordance with Section P2904 or NFPA 13D.
+
+SECTION R314 SMOKE ALARMS
+
+# R314.1 General. Smoke alarms shall comply with NFPA 72 and Section R314.
+
+# R314.1.1 Listings. Smoke alarms shall be listed in accordance with UL 217. Combination smoke and carbon
+
+# R314.2 Where required. Smoke alarms shall be provided in accordance with this section.
+
+# R314.2.1 New construction. Smoke alarms shall be provided in dwelling units.
+
+# R314.2.2 Alterations, repairs and additions. Where alterations, repairs or additions requiring a permit occur, the individual dwelling unit shall be equipped with smoke alarms located as required for new dwellings.
+
+Exceptions:
+1. Work involving the exterior surfaces of dwellings, such as the replacement of roofing or siding, the addition or replacement of windows or doors, or the addition of a porch or deck.
+2. Installation, alteration or repairs of plumbing or mechanical systems.
+
+# R314.3 Location. Smoke alarms shall be installed in the following locations:
+1. In each sleeping room.
+2. Outside each separate sleeping area in the immediate vicinity of the bedrooms.
+3. On each additional story of the dwelling, including basements and habitable attics and not including crawl spaces and uninhabitable attics. In dwellings or dwelling units with split levels and without an intervening door between the adjacent levels, a smoke alarm installed on the upper level shall suffice for the adjacent lower level provided that the lower level is less than one full story below the upper level.
+4. Not less than 3 feet (914 mm) horizontally from the door or opening of a bathroom that contains a bathtub or shower unless this would prevent placement of a smoke alarm required by this section.
+5. In the hallway and in the room open to the hallway in dwelling units where the ceiling height of a room open to a hallway serving bedrooms exceeds that of the hallway by 24 inches (610 mm) or more.
+
+# R314.3.1 Installation near cooking appliances. Smoke alarms shall not be installed in the following locations unless this would prevent placement of a smoke alarm in a location required by Section R314.3.
+1. Ionization smoke alarms shall not be installed less than 20 feet (6096 mm) horizontally from a permanently installed cooking appliance.
+2. Ionization smoke alarms with an alarm-silencing switch shall not be installed less than 10 feet (3048 mm) horizontally from a permanently installed cooking appliance.
+3. Photoelectric smoke alarms shall not be installed less than 6 feet (1828 mm) horizontally from a permanently installed cooking appliance.
+4. Smoke alarms listed and marked “helps reduce cooking nuisance alarms” shall not be installed
+---
+# BUILDING PLANNING
+
+less than 6 feet (1828 mm) horizontally from a permanently installed cooking appliance.
+
+# R314.4 Interconnection
+
+Where more than one smoke alarm is required to be installed within an individual dwelling unit in accordance with Section R314.3, the alarm devices shall be interconnected in such a manner that the actuation of one alarm will activate all of the alarms in the individual dwelling unit. Physical interconnection of smoke alarms shall not be required where listed wireless alarms are installed and all alarms sound upon activation of one alarm.
+
+# R314.5 Combination alarms
+
+Combination smoke and carbon monoxide alarms shall be permitted to be used in lieu of smoke alarms.
+
+# R314.6 Power source
+
+Smoke alarms shall receive their primary power from the building wiring where such wiring is served from a commercial source and, where primary power is interrupted, shall receive power from a battery. Wiring shall be permanent and without a disconnecting switch other than those required for overcurrent protection.
+
+Exceptions:
+
+1. Smoke alarms shall be permitted to be battery operated where installed in buildings without commercial power.
+2. Smoke alarms installed in accordance with Section R314.2.2 shall be permitted to be battery powered.
+
+# R314.7 Fire alarm systems
+
+Fire alarm systems shall be permitted to be used in lieu of smoke alarms and shall comply with Sections R314.7.1 through R314.7.4.
+
+- R314.7.1 General. Fire alarm systems shall comply with the provisions of this code and the household fire warning equipment provisions of NFPA 72. Smoke detectors shall be listed in accordance with UL 268.
+- R314.7.2 Location. Smoke detectors shall be installed in the locations specified in Section R314.3.
+- R314.7.3 Permanent fixture. Where a household fire alarm system is installed, it shall become a permanent fixture of the occupancy, owned by the homeowner.
+- R314.7.4 Combination detectors. Combination smoke and carbon monoxide detectors shall be permitted to be installed in fire alarm systems in lieu of smoke detectors, provided that they are listed in accordance with UL 268 and UL 2075.
+
+# SECTION R315 CARBON MONOXIDE ALARMS
+
+# R315.1 General
+
+Carbon monoxide alarms shall comply with Section R315.
+
+# R315.1.1 Listings. Carbon monoxide alarms shall be listed in accordance with UL 2034. Combination carbon monoxide and smoke alarms shall be listed in accordance with UL 217 and UL 2034.
+
+# R315.2 Where required
+
+Carbon monoxide alarms shall be provided in accordance with Sections R315.2.1 and R315.2.2.
+
+# R315.2.1 New construction. For new construction, carbon monoxide alarms shall be provided in dwelling units where either or both of the following conditions exist:
+
+1. The dwelling unit contains a fuel-fired appliance.
+2. The dwelling unit has an attached garage with an opening that communicates with the dwelling unit.
+
+# R315.2.2 Alterations, repairs and additions. Where alterations, repairs or additions requiring a permit occur, the individual dwelling unit shall be equipped with carbon monoxide alarms located as required for new dwellings.
+
+Exceptions:
+
+1. Work involving the exterior surfaces of dwellings, such as the replacement of roofing or siding, or the addition or replacement of windows or doors, or the addition of a porch or deck.
+2. Installation, alteration or repairs of plumbing systems.
+3. Installation, alteration or repairs of mechanical systems that are not fuel fired.
+
+# R315.3 Location
+
+Carbon monoxide alarms in dwelling units shall be installed outside of each separate sleeping area in the immediate vicinity of the bedrooms. Where a fuel-burning appliance is located within a bedroom or its attached bathroom, a carbon monoxide alarm shall be installed within the bedroom.
+
+# R315.4 Combination alarms
+
+Combination carbon monoxide and smoke alarms shall be permitted to be used in lieu of carbon monoxide alarms.
+
+# R315.5 Interconnectivity
+
+Where more than one carbon monoxide alarm is required to be installed within an individual dwelling unit in accordance with Section R315.3, the alarm devices shall be interconnected in such a manner that the actuation of one alarm will activate all of the alarms in the individual dwelling unit. Physical interconnection of carbon monoxide alarms shall not be required where listed wireless alarms are installed and all alarms sound upon activation of one alarm.
+
+Exception: Interconnection of carbon monoxide alarms in existing areas shall not be required where alterations or repairs do not result in removal of interior wall or ceiling finishes exposing the structure, unless there is an attic, crawl space or basement available that could provide access for interconnection without the removal of interior finishes.
+
+# R315.6 Power source
+
+Carbon monoxide alarms shall receive their primary power from the building wiring where such wiring is served from a commercial source and, where primary power is interrupted, shall receive power from a battery.
