@@ -3,19 +3,17 @@ import numpy as np
 import json
 from config import *
 
-embeddings_json= "knowledge_pool\merged.json"
+embeddings_json = "knowledge_pool\merged.json"
 
 # Choose between "local" or "openai" mode
-mode = "local" # or "local"
+mode = "local"  # or "openai"
 client, completion_model = api_mode(mode)
 
 # question = "What is the program for the building?"
 # question = "What is the place like?"
 # question = "Is there any mention of the construction materials that should be used?"
 question = "Give small description of stair?"
-num_results = 10 #how many vectors to retrieve
-
-num_results = 10 #how many vectors to retrieve
+num_results = 10  # how many vectors to retrieve
 
 def get_embedding(text, model=embedding_model):
     text = text.replace("\n", " ")
@@ -40,24 +38,26 @@ def get_vectors(question_vector, index_lib):
     best_vectors = scores[0:num_results]
     return best_vectors
 
-def rag_answer(question, prompt, model=completion_model[0]["model"]):
+def rag_answer(question, prompt, model=completion_model[0]["model"], format_answer=False):
     completion = client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "system", 
+            {"role": "system",
              "content": prompt
-            },
-            {"role": "user", 
+             },
+            {"role": "user",
              "content": question
-            }
+             }
         ],
         temperature=0.1,
     )
     answer = completion.choices[0].message.content
-    modified_answer = f"tchncldrwng a technical drawing of {answer} isolated on a white background"
-    return modified_answer
+    if format_answer:
+        modified_answer = f"tchncldrwng a technical drawing of {answer} isolated on a white background"
+        return modified_answer
+    else:
+        return answer
 
-print("Waiting for an answer...")
 # Embed our question
 question_vector = get_embedding(question)
 
@@ -69,13 +69,25 @@ scored_vectors = get_vectors(question_vector, index_lib)
 scored_contents = [vector['content'] for vector in scored_vectors]
 rag_result = "\n".join(scored_contents)
 
-# Get answer from rag informed agent
+# Get answer from RAG with informed agent
 prompt = f"""Answer the question based on the provided information. 
             You are given the extracted parts of a long document and a question. Provide a direct answer.
             If you don't know the answer, just say "I do not know.". Don't make up an answer.
-            PROVIDED INFORMATION: """ + rag_result
+            PROVIDED INFORMATION: {rag_result}"""
 
+print("Prompt 1:")
 print(prompt)
-answer = rag_answer(question, prompt)
-print("ANSWER:")
-print(answer)
+answer1 = rag_answer(question, prompt, format_answer=True)
+print("ANSWER 1:")
+print(answer1)
+
+# Another example with a different prompt
+prompt2 = f"""Provide an answer based on your understanding of the context given below.
+            The question is about the specifics of the structure mentioned in the document parts.
+            PROVIDED INFORMATION: {rag_result}"""
+
+print("\nPrompt 2:")
+print(prompt2)
+answer2 = rag_answer(question, prompt2, format_answer=False)
+print("ANSWER 2:")
+print(answer2)
