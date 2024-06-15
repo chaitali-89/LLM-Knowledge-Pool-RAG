@@ -8,9 +8,9 @@ local_client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
 openai_client = OpenAI(api_key=OPENAI_API_KEY)
 
 # Models
-embedding_model = "nomic-ai/nomic-embed-text-v1.5-GGUF"
+#embedding_model = "nomic-ai/nomic-embed-text-v1.5-GGUF"
 #embedding_model = "gaianet/Nomic-embed-text-v1.5-Embedding-GGUF"
-#embedding_model = "second-state/Nomic-embed-text-v1.5-Embedding-GGUF"
+embedding_model = "second-state/Nomic-embed-text-v1.5-Embedding-GGUF"
 
 mermaid = [
         {
