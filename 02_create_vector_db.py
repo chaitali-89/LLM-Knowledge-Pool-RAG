@@ -3,7 +3,7 @@ import json
 import os
 from config import *
 
-document_to_embed = "knowledge_pool/Competition_brief.txt"
+document_to_embed = "knowledge_pool/lifts code ref.txt"
 
 def get_embedding(text, model=embedding_model):
    text = text.replace("\n", " ")
@@ -20,6 +20,9 @@ chunks = [line for line in chunks if line.strip() and line.strip() != '---']
 # Alternetively, split the text into paragraphs by using the empty lines in between them
 # Figure out your own strategy according to the structure of the txt you have.
 # chunks = text_file.split("\n\n")
+
+# Prepending "Indian Standard" to each chunk
+chunks = ["Indian Standard: " + line for line in chunks]
         
 # Create the embeddings
 embeddings = []
